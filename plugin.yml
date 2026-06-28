@@ -1,0 +1,6 @@
+name: CheatDetector
+version: 1.0.0
+main: fr.cheatdetector.CheatDetectorPlugin
+api-version: 1.20
+folia-supported: true
+author: CheatDetectorTeam
